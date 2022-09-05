@@ -28,6 +28,7 @@ export default function Commands() {
       "/sa-as"
       "/reklam-engel
       "/kurucu-kim"
+      "/oylama"
       ]
   return (
     <>
