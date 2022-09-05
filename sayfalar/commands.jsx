@@ -26,7 +26,7 @@ export default function Commands() {
       "/yavaşmod"
       "/küfür-engel"
       "/sa-as"
-      "/reklam-engel
+      "/reklam-engel"
       "/kurucu-kim"
       "/oylama"
       ]
