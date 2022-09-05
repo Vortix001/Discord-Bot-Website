@@ -16,14 +16,18 @@ export default function Commands() {
     "/emojiler",
     "/giriş-çıkış-ayarla",
     "/forceban",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+      "/kanal-açıklama",
+      "/kayıt-et",
+      "/kayıt-rol",
+      "/oto-tag",
+      "/otorol",
+      "/kick",
+      "/rolver-/rol-al",
+      "/yavaşmod"
+      "/küfür-engel"
+      "/sa-as"
+      "/reklam-engel
+      "/kurucu-kim"
       ]
   return (
     <>
